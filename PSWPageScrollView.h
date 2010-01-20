@@ -6,6 +6,6 @@
 	BOOL _doubleTapped;
 }
 
-@property (nonatomic, readonly) BOOL doubleTapped;
+@property (nonatomic, readwrite) BOOL doubleTapped;
 
 @end
